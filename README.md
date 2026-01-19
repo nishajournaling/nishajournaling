@@ -1,6 +1,6 @@
 <!-- GitHub Profile README -->
 
-<h1 align="center">✨ Assalamu'alaikum, I'm Anisha Fadilla ✨</h1>
+<h1 align="center">✨ hi I'm Anisha Fadilla ✨</h1>
 
 <p align="center">
   <img src="masyallah.png" alt="Profile Picture" width="220" style="border-radius:50%" />
